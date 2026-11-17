@@ -132,4 +132,13 @@ export const paradasDemo = [
     specialty: "Cultura e historia",
     hours: "Visita referencial",
   },
+  { id: "demo-c5", zone: "Costa", category: "restaurante", name: "Mesa de la Brisa", lat: -18.451, lng: -70.300, desc: "Ejemplo de cocina costera con preparaciones frescas junto al mar.", specialty: "Pescados y mariscos", hours: "Horario de ejemplo: 12:00 a 20:00" },
+  { id: "demo-c6", zone: "Costa", category: "caleta", name: "Rincón de los Pescadores", lat: -18.508, lng: -70.331, desc: "Ejemplo de caleta para conocer embarcaciones y pesca artesanal.", specialty: "Oficios del mar", hours: "Visita referencial" },
+  { id: "demo-c7", zone: "Costa", category: "patrimonio", name: "Memorias del Litoral", lat: -18.477, lng: -70.318, desc: "Ejemplo de espacio para conocer historias de la costa ariqueña.", specialty: "Historia costera", hours: "Horario de ejemplo: 10:00 a 17:00" },
+  { id: "demo-v5", zone: "Valle", category: "mercado", name: "Sabores de la Chacra", lat: -18.407, lng: -70.140, desc: "Ejemplo de puesto de agricultores con choclo y productos de temporada.", specialty: "Maíz y hortalizas", hours: "Horario de ejemplo: 09:00 a 16:00" },
+  { id: "demo-v6", zone: "Valle", category: "restaurante", name: "Fogón de los Olivos", lat: -18.509, lng: -70.160, desc: "Ejemplo de cocina familiar entre los olivares del valle.", specialty: "Cocina con productos del valle", hours: "Horario de ejemplo: 12:00 a 18:00" },
+  { id: "demo-v7", zone: "Valle", category: "mirador", name: "Mirador del Maizal", lat: -18.399, lng: -70.095, desc: "Ejemplo de parada para contemplar los cultivos y cerros del valle.", specialty: "Paisaje agrícola", hours: "Visita referencial" },
+  { id: "demo-i5", zone: "Interior", category: "restaurante", name: "Sazón de Altura", lat: -18.194, lng: -69.554, desc: "Ejemplo de comedor con platos calientes inspirados en el altiplano.", specialty: "Sopas y granos andinos", hours: "Horario de ejemplo: 12:00 a 19:00" },
+  { id: "demo-i6", zone: "Interior", category: "mirador", name: "Ventana al Altiplano", lat: -18.234, lng: -69.580, desc: "Ejemplo de mirador hacia los cerros y paisajes precordilleranos.", specialty: "Paisaje andino", hours: "Visita referencial" },
+  { id: "demo-i7", zone: "Interior", category: "patrimonio", name: "Senderos de la Memoria", lat: -18.260, lng: -69.592, desc: "Ejemplo de parada cultural sobre las tradiciones del interior.", specialty: "Cultura de altura", hours: "Horario de ejemplo: 10:00 a 17:00" },
 ];
